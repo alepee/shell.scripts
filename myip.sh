@@ -1,0 +1,1 @@
+myip() { curl ifconfig.co }
